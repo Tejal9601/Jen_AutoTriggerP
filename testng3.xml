@@ -7,6 +7,7 @@
 	  <classes>
       <class name="testClass.AdminLoginWithPara3">
 		  <methods><include name="admLogin"></include></methods>
+		
       </class>
     </classes>
   </test> <!-- Test -->
